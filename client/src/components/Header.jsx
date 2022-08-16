@@ -7,7 +7,7 @@ const Header = () => {
         <a href="/" className="navbar-brand">
           <div className="d-flex">
             <img
-              src="https://images.unsplash.com/photo-1572177812156-58036aae439c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+              src="https://www.nylas.com/wp-content/uploads/GraphQL_Blog@2x-1024x536.png"
               className="mr-2"
               alt="logo"
             />
