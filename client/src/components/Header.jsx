@@ -11,7 +11,7 @@ const Header = () => {
               className="mr-2"
               alt="logo"
             />
-            <div>Project Management</div>
+            <div>Project and Client Management</div>
           </div>
         </a>
       </div>
