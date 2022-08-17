@@ -176,6 +176,7 @@ const mutation = new GraphQLObjectType({
         },
       },
       resolve(parent, args) {
+        console.log(args);
         return Project.findByIdAndUpdate(
           args.id,
           {
