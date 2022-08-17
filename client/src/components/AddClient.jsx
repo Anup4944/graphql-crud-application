@@ -84,7 +84,7 @@ const AddClient = () => {
                   />
                 </div>
                 <div className="mb-3">
-                  <label className="form-label">Phone</label>
+                  <label className="form-label">Phone (max 10 digit)</label>
                   <input
                     type="number"
                     className="form-control"
